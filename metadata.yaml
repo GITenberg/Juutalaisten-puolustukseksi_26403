@@ -1,0 +1,40 @@
+_repo: Juutalaisten-puolustukseksi_26403
+_version: 0.1.0
+alternative_title: Pour les Juifs. Finnish
+contributor:
+  translator:
+    agent_name: Huttunen, Evert
+    birthdate: 1884
+    deathdate: 1924
+    gutenberg_agent_id: '31980'
+    url: http://www.gutenberg.org/2009/agents/31980
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zola, Émile
+    alias: Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
+    - http://en.wikipedia.org/wiki/Émile_Zola
+description: ''
+gutenberg_issued: '2008-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26403'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- France'
+- !lcc 'DC'
+- !lcsh 'Antisemitism -- France'
+- !lcc 'DS'
+title: Juutalaisten puolustukseksi
+url: http://www.gutenberg.org/ebooks/26403
