@@ -23,6 +23,8 @@ creator:
     - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
     - http://en.wikipedia.org/wiki/Émile_Zola
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26403#Juutalaisten-puolustukseksi
 gutenberg_issued: '2008-08-23'
 gutenberg_type: Text
 identifiers:
